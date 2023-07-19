@@ -1,3 +1,3 @@
-# Instagram Database Analysis 
-Practice from Colt Steele's MySQL Bootcamp With Additional Analytics
+# SQL Useful Basics 
+Notes and Practice from Colt Steele's MySQL Bootcamp With Additional Analytics
 <br>
